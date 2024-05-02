@@ -30,3 +30,6 @@ This project does not rely on any external dependencies beyond standard web tech
 
 ## Contributing
 Contributions to this project are welcome! Feel free to fork the repository and submit pull requests with your enhancements.
+
+The site is live at https://shivuu2803.github.io/Simon-Game-FrontEnd-/
+
